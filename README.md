@@ -2,8 +2,8 @@
 ## Text Recognition and Information Extraction using Tesseract and Python
 
 ## Table of Contents
-* [Project Description](#Project-Description)
-* [Project Overview]
+* [Project Description](#Project Description)
+* [Project Overview](#Project Overview)
 
 - Project Description
 
