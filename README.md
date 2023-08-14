@@ -3,7 +3,6 @@
 
 > - Project Overview : Optical Character Recognition (OCR) is a technology that converts images of text into machine-readable text. This project showcases how to use Tesseract, a widely-used OCR engine, to recognize and extract text from images. The project covers several aspects of text recognition, including installation, language support, page segmentation modes, text detection, and information extraction.
 
-
 - Project Description
 
     * The "Text Recognition and Information Extraction" project leverages Python and the Tesseract OCR (Optical Character Recognition) library to perform text recognition and extraction from images. This project demonstrates the capabilities of Tesseract for recognizing text in various contexts and extracting specific information from images.
@@ -33,11 +32,11 @@ Provides options to adjust confidence thresholds and visualize text boxes around
    * Illustrates the use of regular expressions for extracting specific types of information, such as dates, from detected text.
 Shows how to identify and extract structured data using text recognition.
 
-- Real-World Text Recognition:
+- Real-World Text Recognition
    * Showcases text recognition in natural scenes, such as images with text on objects like cups.
 Highlights the capability of Tesseract to recognize text in various real-world scenarios.
 
-- Benefits and Learning:
+- Benefits and Learning
    * Gain insights into OCR technology and its applications.
    * Learn how to install and configure Tesseract for text recognition.
    * Understand different page segmentation modes and their effects.
