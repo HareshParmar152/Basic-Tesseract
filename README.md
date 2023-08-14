@@ -37,7 +37,7 @@ Shows how to identify and extract structured data using text recognition.
    * Showcases text recognition in natural scenes, such as images with text on objects like cups.
 Highlights the capability of Tesseract to recognize text in various real-world scenarios.
 
--Benefits and Learning:
+- Benefits and Learning:
    * Gain insights into OCR technology and its applications.
    * Learn how to install and configure Tesseract for text recognition.
    * Understand different page segmentation modes and their effects.
